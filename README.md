@@ -1,6 +1,6 @@
 # ucsd-ext-put-final
 
-Final assignemnt for UCSD Extension Python Unit Testing
+Final assignment for UCSD Extension Python Unit Testing
 
 Key Skills Demonstrated Include:
 
